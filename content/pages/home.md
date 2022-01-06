@@ -1,7 +1,7 @@
 ---
 blocks:
   - tagline: ''
-    headline: Welcome to the Tina Starter
+    headline: All about trains
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
